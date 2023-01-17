@@ -1,0 +1,7 @@
+#order deny,allow
+#deny from all
+#allow from 213.200.15.251
+#allow from 194.44.110.220
+#allow from 188.230.82.150
+#allow from 178.210.144.15
+#allow from 178.210.138.166
